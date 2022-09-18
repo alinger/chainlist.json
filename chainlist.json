@@ -1,0 +1,68 @@
+[
+    {
+        "value": "0",
+        "name": "Matic Test",
+        "chainId": 80001,
+        "label": "https://matic-mumbai.chainstacklabs.com",
+        "symbol": "TMATIC",
+        "cTokens": [
+            "MATIC"
+        ],
+        "VUE_APP_TRANSFER": "0x6DAbd94fBE2E6ffE913E825236dDC4d3c17Cdc1a"
+    },
+    {
+        "value": "1",
+        "name": "Matic",
+        "chainId": 137,
+        "label": "https://rpc-mainnet.maticvigil.com",
+        "cTokens": [
+            "MATIC"
+        ],
+        "symbol": "MATIC",
+        "VUE_APP_TRANSFER": "0x13735Ccf961E76981c2117bCA8a8a38B80cB28D6",
+    },
+    {
+        "value": "2",
+        "name": "Rinkeby 测试网络",
+        "chainId": 4,
+        "label": "https://rinkeby.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+        "cTokens": [
+            "ETH"
+        ],
+        "symbol": "ETH",
+        "VUE_APP_TRANSFER": "0xa544924dB562776255cC298c8ea7353d96A9aD4c"
+    },
+    {
+        "value": "3",
+        "name": "kovan",
+        "chainId": 42,
+        "label": "https://kovan.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+        "cTokens": [
+            "ETH"
+        ],
+        "symbol": "ETH",
+        "VUE_APP_TRANSFER": "0x5DB9C0C8B24228C8Db8ff1117ED609FceAB14aB2"
+    },
+    {
+        "value": "4",
+        "name": "Goerli 测试网络",
+        "chainId": 5,
+        "label": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+        "cTokens": [
+            "ETH"
+        ],
+        "symbol": "ETH",
+        "VUE_APP_TRANSFER": "0x4B53c468A4BCe1d341dB8d29596138f245eF500d"
+    },
+    {
+        "value": "5",
+        "name": "币安 测试网络",
+        "chainId": 97,
+        "label": "https://data-seed-prebsc-1-s1.binance.org:8545/",
+        "cTokens": [
+            "TBNB"
+        ],
+        "symbol": "TBNB",
+        "VUE_APP_TRANSFER": "0xB1cC22Ca2592571b7599A2FeF592bfEB53a3D0FB"
+    }
+]
